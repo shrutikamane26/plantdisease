@@ -1,0 +1,10 @@
+Flask
+tensorflow
+numpy
+pandas
+matplotlib
+Pillow
+sklearn
+gunicorn
+werkzeug
+opencv-python
